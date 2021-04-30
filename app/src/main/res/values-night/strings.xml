@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Tip Calculator</string>
     <string name="cost_of_service">Cost Of Service:</string>
     <string name="round_tip">Round Tip?</string>
     <string name="calculate">Calculate</string>
